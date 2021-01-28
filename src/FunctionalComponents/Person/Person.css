@@ -1,0 +1,9 @@
+.person-btn {
+    width: 60%;
+    margin: 16px auto;
+    border: 1ox solid red;
+    box-shadow: 0 2px 3px gray;
+    padding: 16px;
+    text-align: center;
+    color: blue;
+}
